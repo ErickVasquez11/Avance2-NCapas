@@ -1,0 +1,22 @@
+{
+  "name": "avance-2--n-capas",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Add: init project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickVasquez11/Avance2-NCapas.git"
+  },
+  "author": "ErickVasquez11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickVasquez11/Avance2-NCapas/issues"
+  },
+  "homepage": "https://github.com/ErickVasquez11/Avance2-NCapas#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
